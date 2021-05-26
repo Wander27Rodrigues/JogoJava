@@ -4,6 +4,12 @@
 
 # JogoJava
 
+## Taks
+- [x] Estrutura
+- [x] Code main
+- [ ] Template
+
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
