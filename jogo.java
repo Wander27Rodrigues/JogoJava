@@ -43,6 +43,4 @@ import java.util.Random;
                             }while (escolha_computador != escolha_usuario);
                             }
                     }
-            }
-}
 }
